@@ -1,4 +1,4 @@
-### Programming Practice Test 
+# Programming Practice Test 
 Resources to help you pass the programming interview questions and challenges: 
 
 [HackerRank](http://hackerrank.com/)
@@ -68,3 +68,15 @@ Resources to help you pass the programming interview questions and challenges:
 [MLComp](http://mlcomp.org/)
 
 [HPC University](http://hpcuniversity.org/students/weeklyChallenge/)
+
+
+# Programming videos 
+
+
+Name |link
+------------ |-------------
+Technical interview with a Google engineer | [link](https://www.youtube.com/watch?v=D35llNtkCps&list=WL&index=13&t=0s)
+Data Structures & Algorithms playlist | [link](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
+Hackerank 30 Days of code  | [link](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+
+
